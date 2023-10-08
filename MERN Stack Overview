@@ -50,4 +50,19 @@ and the change are made accordingly that the original DOM.
 2. JSX - Stands for JavaScript XML. It is an HTML/XML JavaScript Extension which is used in React. Makes it easier and simpler to write React components.
 3. Components - ReactJS supports Compoents. Components are the building blocks of UI wherein each components has logic and contributes to the overall UI. These components also promotes resuability and make the 
 overall web application easier to understand.
-3. High Preferance - Features like Virtual DOM, JSX
+3. High Preferance - Features like Virtual DOM, JSX and Components make it much faster than the rest of the frameworks out there.
+4.  Developing Android/iOS Apps - Which React Native, you can easily code android-based or iOS-based apps, with just the knowledge of JavaScript and React.
+
+4. Node.js - JavaScript Runtime Enviornment
+
+Node.js provides a JavaScript runtime enviornment which allows the user to run their code on the server(outside the browser). Node package manager i.e npm allows 
+the user to choose from thousands of free packages (node modules) to download. 
+
+Why use Node.js ?
+
+1. Open-source JavaScript Runtime Enviornment.
+2. Single Threading - Follows a single-threaded model.
+3. Data Streaming.
+4. Fast - Build on Google Chrome's JavaScript engine, Node.js has a fast code execution.
+5. Highly scalable.
+
